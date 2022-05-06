@@ -1,0 +1,8 @@
+character:
+name: Ryxon
+abilities: 10 18 14 12 14 16
+hp: 49
+==================================
+enemy: Baddie
+abilities: 10 10 10 10 10 10
+hp: 40
